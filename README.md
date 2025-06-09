@@ -4,7 +4,7 @@ A showcase of programming projects, experiments and solutions.
 
 | Project | Details |
 |---|---|
-| [Tiny-Mnist-Denoiser](./tiny-mnist-denoiser/) | Tiny (~200kb) deep learning model to denoise a hand-drawn digit ![Tiny-Mnist-Denoiser infographic](./tiny-mnist-denoiser/infographic.png) |
+| [Tiny-Mnist-Denoiser](./tiny-mnist-denoiser/) | Tiny (~200kB) deep learning model to denoise a hand-drawn digit ![Tiny-Mnist-Denoiser infographic](./tiny-mnist-denoiser/infographic.png) |
 
 ## Copyright
 

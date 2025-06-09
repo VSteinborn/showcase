@@ -1,6 +1,6 @@
 # tiny-mnist-denoiser
 
-This repository contains a tiny (~200kb) denoiser for MNIST images. The denoiser is trained on a subset of the MNIST dataset and aims to remove noise from noisy MNIST images.
+This repository contains a tiny (~200kB) denoiser for MNIST images. The denoiser is trained on a subset of the MNIST dataset and aims to remove noise from noisy MNIST images.
 
 This is a JAX implementation of the denoiser described in Umberto Michelucci's article "An Introduction to Autoencoders", available [here](https://arxiv.org/abs/2201.03898).
 
